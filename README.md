@@ -25,8 +25,6 @@ APIs used:
 
 <img src="https://github.com/padlanau/Android-Nanodegree-Project-2-Movies-App-Stage-1-Stage2/blob/master/images/movie-02.png" width="248">
 
-
 <img src="https://github.com/padlanau/Android-Nanodegree-Project-2-Movies-App-Stage-1-Stage2/blob/master/images/movie-03.png" width="248">
-
 
 <img src="https://github.com/padlanau/Android-Nanodegree-Project-2-Movies-App-Stage-1-Stage2/blob/master/images/movie-04.png" width="248">
