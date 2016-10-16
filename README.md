@@ -4,6 +4,7 @@ In this project, you will build an app to help users discover popular and recent
 You will add to the app you built in Stage 1 by building on the detail view for each movie, allowing users to 'favorite' movies, and adding a tablet layout.
 
 Project Overview
+
 You’ll add more information to your movie details view:
 
 You’ll allow users to view and play trailers ( either in the youtube app or a web browser).
