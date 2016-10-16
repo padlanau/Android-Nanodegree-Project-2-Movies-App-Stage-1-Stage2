@@ -11,3 +11,9 @@ You’ll allow users to read reviews of a selected movie.
 You’ll also allow users to mark a movie as a favorite in the details view by tapping a button(star). This is for a local movies collection that you will maintain and does not require an API request*.
 You’ll modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
 Lastly, you’ll optimize your app experience for tablet.
+
+APIs used:
+- Content Providers
+- Hooking it up with Loaders
+- Rich and Responsive Layouts
+- Services and Notifications
